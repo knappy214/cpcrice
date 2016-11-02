@@ -1,0 +1,9 @@
+Building CprCoin
+
+See doc/readme-qt.rst for instructions on building cprcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CprCoin.
+
+See doc/build-*.txt for instructions on building cprcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of CprCoin.
